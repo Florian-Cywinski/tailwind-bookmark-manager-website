@@ -1,6 +1,6 @@
 # Bookmark Website
 
-Tailwind Bookmark Manager landing page with dark / light mode switcher - From Brad Traversy's 'Tailwind CSS From Scratch | Learn By Building Projects' course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+Tailwind Bookmark Manager landing page - From Brad Traversy's 'Tailwind CSS From Scratch | Learn By Building Projects' course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
 
 Check out the site :) - https://tailwind-bookmark-manager-website-fc.netlify.app/
 
