@@ -16,7 +16,10 @@ module.exports = {
       },
       fontFamily: { // To have custom font (Google)
         sans: ['Rubik', 'sans-serif'],
-      }
+      },
+      backgroundImage: () => ({ // To add a custom class for the bg image in the Download Boxes Section
+        dots: "url('../images/bg-dots.svg')",
+      }),
     },
   },
   plugins: [],
