@@ -4,8 +4,6 @@ Tailwind Bookmark Manager landing page - From Brad Traversy's 'Tailwind CSS From
 
 Check out the site :) - https://tailwind-bookmark-manager-website-fc.netlify.app/
 
-![Alt text](images/bookmark.png)
-
 ## Development steps
 
 1. Setup & Config
